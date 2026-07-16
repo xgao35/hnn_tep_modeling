@@ -10,5 +10,4 @@ Please note that we are using a custom version of HNN in [Joyce's fork of hnn-co
 `TEP_plotting.ipynb` plots the simulation, including dipoles, spiking, calcium dynamics, magnesium blocks, and NMDA current 
 
 
-
-
+`MBD_Fig[x].ipynb` contains plots for Joyce's 2026 Mind Brain Day poster. This was ran on an older version of hnn-core, so the simulations may have issue running. However, this is kept in this repository since the plotting code may still be helpful.
